@@ -71,10 +71,6 @@
       <Project>{FDFC8179-FEEA-42D0-ADD9-D31017C71414}</Project>
       <Name>uNet2</Name>
     </ProjectReference>
-    <ProjectReference Include="..\uRAT.Server\uRAT.Server.csproj">
-      <Project>{338CBEDF-2675-4240-9D69-EC6AEA95FE95}</Project>
-      <Name>uRAT.Server</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="ProcessManager\Forms\ProcessManagerForm.resx">

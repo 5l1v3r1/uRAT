@@ -72,10 +72,6 @@
       <Project>{eb02e8f6-6d38-44e3-ac2d-34792a538267}</Project>
       <Name>uRAT.Client</Name>
     </ProjectReference>
-    <ProjectReference Include="..\uRAT.Server\uRAT.Server.csproj">
-      <Project>{338cbedf-2675-4240-9d69-ec6aea95fe95}</Project>
-      <Name>uRAT.Server</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
